@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 01-12-2024
+  Major Features:
+    - Physical bullets instead of hitscans.
+    - Support for More Ammo. 
