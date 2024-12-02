@@ -2,7 +2,7 @@
   "name": "Physical_Bullets",
   "version": "0.0.1",
   "title": "Physical Bullets and Lights",
-  "author": "Marz, Klonan",
+  "author": "MarzBoi, Klonan",
   "description": "Physical bullets with support for some mods.",
   "dependencies": ["base >= 2.0", "? More_Ammo"],
   "factorio_version": "2.0"
